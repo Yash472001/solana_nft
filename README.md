@@ -2,7 +2,5 @@
 Customize Program to create Nft using Rust
 
 # Functionality
-Whitelisting 
-Erc721Replica With TokenId
-Set & Update BaseUri 
+Whitelisting with Erc721Replica which includes TokenId and Set & Update BaseUri 
 
